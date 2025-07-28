@@ -1,4 +1,4 @@
-# 🧠 Full Stack Web Development Roadmap (A–Z) — Flask Edition
+# 🧠 Full Stack Web Development revision Roadmap (A–Z) — Flask Edition
 
 Welcome to your complete roadmap to mastering full stack development using **Flask** as your backend framework! This guide takes you from **absolute beginner** to **production-ready developer** with real-world skills.
 
@@ -221,17 +221,3 @@ Welcome to your complete roadmap to mastering full stack development using **Fla
 - Practice LeetCode + mock interviews
 
 ---
-
-## ✅ Recommended Courses
-- [freeCodeCamp.org](https://www.freecodecamp.org/)
-- [CS50 Web – Harvard](https://cs50.harvard.edu/web/)
-- [Udemy – Python & Flask Bootcamp](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
-- [The Odin Project (Frontend/JS)](https://www.theodinproject.com/)
-
----
-
-## 🚀 Final Note
-
-Stay consistent, build small projects after every milestone, and don’t be afraid to **break things** while learning. The best developers debug and iterate constantly.
-
-Happy coding! 💻✨
